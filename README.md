@@ -1,5 +1,5 @@
 # sales-crm-data-struct-scratch
-Trying to figure out what the data structure should look like for a CRM that meets our specific needs. Completely experimental
+Trying to figure out what the data structure should look like for a CRM that meets our specific needs. Completely experimental and a precursor to setting up Twenty.com
 
 Let’s break down the entities and relationships — this will serve as a reference for building out the data model in an ORM engine.
 
